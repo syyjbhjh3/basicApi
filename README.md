@@ -2,6 +2,8 @@
 
 swagger : http://localhost:8080/swagger-ui/index.html
 
+JPA를 사용해보고자 기본적인 Api구성, Member를 통한 회원가입, 로그인시 jwt토큰 발급, Api 호출기능
+
 사용기술 : Java11, Spring Boot2.6.7, JPA, H2, Gradle
 
 
